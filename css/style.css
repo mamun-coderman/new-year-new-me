@@ -75,3 +75,9 @@
 .main-part .section-first-failors .failors-part ul{
     list-style: none;
 }
+
+ .fa-solid, .fa-check{
+    color: green;
+} /* styling fonts collected from font awesome */
+
+/* failors part completed */
