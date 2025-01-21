@@ -80,4 +80,26 @@
     color: green;
 } /* styling fonts collected from font awesome */
 
-/* failors part completed */
+/* failors part completed and my plans section starts */
+
+.my-plans-section{
+    width: 1140px;
+    margin: 100px auto;
+}
+
+.center-alignment{
+    text-align: center;
+}
+
+.skills-parent{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+
+.heading-third{
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    color: #151414;
+}
